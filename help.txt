@@ -1,0 +1,15 @@
+# run make file
+
+$make
+
+OR
+
+# run the project executable file
+
+$./project
+
+#Enter the input as
+1 + 2
+3
+
+give space between the each operand and each operator

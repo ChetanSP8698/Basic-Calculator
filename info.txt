@@ -1,5 +1,3 @@
 Title of the project - Basic calculator(bc command)
 
-Name - CHETAN SHRIRAM PARALIKAR
-
-Description - 
+Description - It works as bc command in linux. It calculates arbitrary large number.
