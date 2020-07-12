@@ -1,3 +1,3 @@
 Title of the project - Basic calculator(bc command)
 
-Description - It works as bc command in linux. It calculates arbitrary large number.
+Description - It works as bc command in linux. It calculates arbitrary large number.It is Bacis Calculator which perform the operations like addition, substraction, multiplication, power, leftshift on the arbitrary large floating number. It does arithmatic operation on any number with precedence. It takes value from user in arithmatic expression and do proper operation on it according to precedence. It also work with variable, if user give x = 5 and do x * 6 operation then it gives answer 30. It can calculate power as well.
